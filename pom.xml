@@ -10,7 +10,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <scala.version>2.11.8</scala.version>
-    <spak.version>2.3.0.cloudera4</spak.version>
+    <spak.version>2.4.4</spak.version>
   </properties>
 
   <repositories>
